@@ -1,0 +1,4 @@
+Name of Program,Environment,Start Command,Start Command.1
+CACL_1,PROD,nohup start_cacl_1.sh,nohup stop_cacl_1.sh
+CACL_2,UAT,nohup start_cacl_2.sh,nohup stop_cacl_2.sh
+CACL_3,DEV,nohup start_cacl_3.sh,nohup stop_cacl_3.sh

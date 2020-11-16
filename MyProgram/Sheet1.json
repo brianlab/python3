@@ -1,0 +1,17 @@
+[
+    {
+        "Name of Program": "CACL_1",
+        "Environment": "PROD",
+        "Start Command": "nohup stop_cacl_1.sh"
+    },
+    {
+        "Name of Program": "CACL_2",
+        "Environment": "UAT",
+        "Start Command": "nohup stop_cacl_2.sh"
+    },
+    {
+        "Name of Program": "CACL_3",
+        "Environment": "DEV",
+        "Start Command": "nohup stop_cacl_3.sh"
+    }
+]
